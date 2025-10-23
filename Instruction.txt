@@ -8,4 +8,4 @@
 
 5. затем просто нажать push 
 
-6. создать PR в git-hub
+6. создать PR в git-hubddasdasdas
